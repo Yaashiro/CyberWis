@@ -1,8 +1,6 @@
 <h1 align="center">
   📜 Sobre Mim
 </h1>
-
-## Wis:
 > Olá, me chamo wis pela internet, tenho 15 anos e sou entusiasta em tecnologia e historia.
 ---
 
