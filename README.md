@@ -11,6 +11,7 @@ Olá, me chamo wis pela internet tenho 15 anos, atualmente estou localizado em M
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Meu banner:
+![image](https://giffiles.alphacoders.com/209/209037.gif)
 
 ## Hobbies:
 > Faço design's simples e desenvolvo bots.
