@@ -13,4 +13,4 @@ Olá, me chamo wis pela internet tenho 15 anos, atualmente estou localizado em M
 ## Meu banner:
 
 ## Hobbies:
-> Faço design's simples e basicas e desenvolvo bots.
+> Faço design's simples e desenvolvo bots.
