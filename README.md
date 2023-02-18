@@ -1,7 +1,7 @@
 <h1 align="center">
   📜 CyberWis
 </h1>
-Olá, me chamo wis pela internet tenho 15 anos, atualmente estou localizado em **Macaé - RJ**, sou entusiasta em tecnologia e historia.
+Olá, me chamo wis pela internet tenho 15 anos, atualmente estou localizado em *Macaé - RJ*, sou entusiasta em tecnologia e historia.
 
 ## Quero ter conhecimente avançado em:
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
